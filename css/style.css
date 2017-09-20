@@ -632,6 +632,7 @@ font-size: 18px;
   color: #ffffff;
   background-color: #000;
   border-color: #ffffff;
+	background-image: none;
 }
 .btn-primary {
     color: #fff;
