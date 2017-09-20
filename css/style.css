@@ -21,7 +21,6 @@ padding: 20px 0
 }
 #boxWrapp{
 width:100%;
-max-width:1360px;
 margin:0 auto;
 padding:0;
 overflow:hidden;
@@ -39,7 +38,7 @@ position:relative;
 
 /* =============================== header ===================================== */
 .header {
-background-color: black no-repeat center fixed;
+background-color: black;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
