@@ -619,3 +619,7 @@ padding-bottom: 23px;
 font-size: 18px;
 }
 }
+.bg-primary{
+	background:black;
+	background-color: black;
+}
