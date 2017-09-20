@@ -623,3 +623,12 @@ font-size: 18px;
 	background:black;
 	background-color: black;
 }
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+  color: #ffffff;
+  background-color: #000;
+  border-color: #ffffff;
+}
