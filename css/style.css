@@ -627,8 +627,14 @@ font-size: 18px;
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
-.btn-primary.active {
+.btn-primary.active,
+.btn-primary{
   color: #ffffff;
   background-color: #000;
   border-color: #ffffff;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
 }
