@@ -22,10 +22,10 @@ border-color: #26ACD6;
 }
 
 .bg-primary{
-background-color:#005a6d;
+background-color:black;
 }
-        
+
 /*this for transparent nav background*/
 .bg-nav{
-background:rgba(0,90,109,0.7);            
+background:rgba(0,90,109,0.7);
 }
